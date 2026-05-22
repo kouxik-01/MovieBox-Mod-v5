@@ -8,9 +8,14 @@
 
 ---
 
-[![Downloads](https://img.shields.io/github/downloads/koushik-01-exe/MovieBox-Mod-v5/total?style=for-the-badge&logo=android&logoColor=white&label=Total%20Downloads&color=FF4757)](https://github.com/koushik-01-exe/MovieBox-Mod-v5/releases/latest)
-[![Visitors](https://visitor-badge.laobi.icu/badge?page_id=koushik-01-exe.MovieBox-Mod-v5&style=for-the-badge&color=2ed573&label=Repo%20Visitors)](https://github.com/koushik-01-exe/MovieBox-Mod-v5)
-[![Download APK](https://img.shields.io/github/v/release/koushik-01-exe/MovieBox-Mod-v5?style=for-the-badge&logo=applearcade&logoColor=white&label=Download%20APK&color=1e90ff)](https://github.com/koushik-01-exe/MovieBox-Mod-v5/releases/latest/download/MovieBox.apk)
+<a href="https://github.com/koushik-01-exe/MovieBox-Mod-v5/releases/download/MovieBox/MovieBox_Mod_v4.apk">
+  <img src="https://img.shields.io/badge/Download%20APK-Click%20Here-1e90ff?style=for-the-badge&logo=android&logoColor=white" alt="Download APK"/>
+</a>
+
+<br/><br/>
+
+[![Downloads](https://img.shields.io/github/downloads/koushik-01-exe/MovieBox-Mod-v5/total?style=flat-square&logo=android&logoColor=white&label=Total%20Downloads&color=FF4757)](https://github.com/koushik-01-exe/MovieBox-Mod-v5/releases/latest)
+[![Visitors](https://visitor-badge.laobi.icu/badge?page_id=koushik-01-exe.MovieBox-Mod-v5&style=flat-square&color=2ed573&label=Repo%20Visitors)](https://github.com/koushik-01-exe/MovieBox-Mod-v5)
 
 </div>
 
@@ -61,5 +66,5 @@ You can now download anything directly to your phone storage!
 ---
 
 <div align="center">
-<sub>Mod with ❤️ by <a href="https://github.com/koushik-01-exe">koushik-01-exe</a></sub>
+<sub>Made with ❤️ by <a href="https://github.com/koushik-01-exe">koushik-01-exe</a></sub>
 </div>
