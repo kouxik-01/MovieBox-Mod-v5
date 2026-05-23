@@ -70,6 +70,6 @@ You can now download anything directly to your phone storage!
 ---
 
 <div align="center">
-<sub>Made with ❤️ by <a href="https://github.com/koushik-01-exe">koushik-01-exe</a></sub>
+<sub>Modded with ❤️ by <a href="https://github.com/koushik-01-exe">koushik-01-exe</a></sub>
 </div>
 
