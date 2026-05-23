@@ -14,6 +14,10 @@
 
 <br/><br/>
 
+[![Telegram](https://img.shields.io/badge/Telegram%20Community-Join%20Us-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/BankaiMods)
+
+<br/>
+
 [![Downloads](https://img.shields.io/github/downloads/koushik-01-exe/MovieBox-Mod-v5/total?style=flat-square&logo=android&logoColor=white&label=Total%20Downloads&color=FF4757)](https://github.com/koushik-01-exe/MovieBox-Mod-v5/releases/latest)
 [![Visitors](https://visitor-badge.laobi.icu/badge?page_id=koushik-01-exe.MovieBox-Mod-v5&style=flat-square&color=2ed573&label=Repo%20Visitors)](https://github.com/koushik-01-exe/MovieBox-Mod-v5)
 
@@ -66,5 +70,6 @@ You can now download anything directly to your phone storage!
 ---
 
 <div align="center">
-<sub>Modded with ❤️ by <a href="https://github.com/koushik-01-exe">koushik-01-exe</a></sub>
+<sub>Made with ❤️ by <a href="https://github.com/koushik-01-exe">koushik-01-exe</a></sub>
 </div>
+
