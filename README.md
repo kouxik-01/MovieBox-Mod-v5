@@ -36,40 +36,24 @@
 
 ---
 
-## 📥 Download Feature
-
-You can now download anything directly to your phone storage!
-
-- Grant **Storage Permission** after installing the app
-- All downloaded files are automatically saved at:
-
-```
-📁 Downloads → MovieBox Folder
-```
-
----
-
 ## 📸 Screenshots
 
 <div align="center">
-<img src="assets/Screenshot_20260522_223344.jpg" width="45%"/>
+<img src="assets/Screenshot_20260609_163725.jpg" width="45%"/>
 &nbsp;&nbsp;
-<img src="assets/Screenshot_20260522_223349.jpg" width="45%"/>
+<img src="assets/Screenshot_20260609_164040.jpg" width="45%"/>
 </div>
 
 ---
 
 ## 🛠️ Installation Guide
-
 1. Download the APK from the button above
-2. Enable **"Install from Unknown Sources"** in settings
 3. Install the APK
-4. Open app → Grant **Storage Permission**
 5. Enjoy! ✨
 
 ---
 
 <div align="center">
-<sub>Modded with ❤️ by <a href="https://github.com/koushik-01-exe">koushik-01-exe</a></sub>
+<sub>Modded with ❤️ by <a href="https://github.com/koushik-01-exe">koushik-01-ex</a></sub>
 </div>
 
