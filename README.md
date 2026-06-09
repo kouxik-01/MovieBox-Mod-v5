@@ -8,7 +8,7 @@
 
 ---
 
-<a href="https://github.com/koushik-01-exe/MovieBox-Mod-v5/releases/download/MovieBox/MovieBox_Mod_v4.apk">
+<a href="https://github.com/kouxik-01/MovieBox-Mod-v5/releases/download/Moviebox/Moviebox_Mod_v5.0.apk">
   <img src="https://img.shields.io/badge/Download%20APK-Click%20Here-1e90ff?style=for-the-badge&logo=android&logoColor=white" alt="Download APK"/>
 </a>
 
@@ -54,6 +54,6 @@
 ---
 
 <div align="center">
-<sub>Modded with ❤️ by <a href="https://github.com/koushik-01-exe">koushik-01-ex</a></sub>
+<sub>Modded with ❤️ by <a href="https://github.com/koushik-01-exe">kouxik-01</a></sub>
 </div>
 
