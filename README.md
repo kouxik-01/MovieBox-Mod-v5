@@ -20,16 +20,9 @@
 
 <br/><br/>
 
-[
-
-![Downloads](https://img.shields.io/github/downloads/kouxik-01/MovieBox-Mod-v5/total?style=flat-square&logo=android&logoColor=white&label=Total%20Downloads&color=FF4757)
-
-](https://github.com/kouxik-01/MovieBox-Mod-v5/releases/latest)
-[
-
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=kouxik-01.MovieBox-Mod-v5&style=flat-square&color=2ed573&label=Repo%20Visitors)
-
-](https://github.com/kouxik-01/MovieBox-Mod-v5)
+<img src="https://img.shields.io/github/downloads/kouxik-01/MovieBox-Mod-v5/total?style=flat-square&logo=android&logoColor=white&label=Total%20Downloads&color=FF4757"/>
+&nbsp;
+<img src="https://visitor-badge.laobi.icu/badge?page_id=kouxik-01.MovieBox-Mod-v5&style=flat-square&color=2ed573&label=Repo%20Visitors"/>
 
 </div>
 
