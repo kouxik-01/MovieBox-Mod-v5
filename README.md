@@ -8,7 +8,7 @@
 
 ---
 
-<a href="https://github.com/kouxik-01/MovieBox-Mod-v5/releases/download/MovieBox_Mod_5.1/Moviebox_Mod_V5.1.apk">
+<a href="https://github.com/kouxik-01/MovieBox-Mod-v5/releases/download/MovieBox_Mod_5.1/Moviebox_Mod_5.1.apk">
   <img src="https://img.shields.io/badge/⬇️%20Download%20APK-v5.1-FF4757?style=for-the-badge&logo=android&logoColor=white" alt="Download APK"/>
 </a>
 
