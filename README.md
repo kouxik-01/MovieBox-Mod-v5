@@ -56,7 +56,7 @@
 
 ---
 
-## 📥 Download Location
+## 📥 Content Download Location
 
 <div align="center">
 
@@ -65,7 +65,7 @@
 <td align="center" width="600">
 <br/>
 
-⚪ All downloaded files will be automatically saved at:
+⚪ All downloaded Content will be automatically saved at:
 
 <br/><br/>
 
