@@ -42,9 +42,9 @@
 ## 📸 Screenshots
 
 <div align="center">
-<img src="assets/Screenshot_20260609_163725.jpg" width="45%"/>
+<img src="assets/IMG_20260613_120222.jpg" width="45%"/>
 &nbsp;&nbsp;
-<img src="assets/Screenshot_20260611_164217.jpg" width="45%"/>
+<img src="assets/IMG_20260613_120232.jpg" width="45%"/>
 </div>
 
 ---
